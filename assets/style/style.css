@@ -41,6 +41,7 @@ body {
     color: var(--Dark_grayis__blue);
     letter-spacing: 4px;
     margin: 0px 0px 5px;
+    text-transform: uppercase;
 }
 .second__text h3 {
     font-size: 1.5rem;
@@ -67,7 +68,7 @@ body {
     font-weight: 700 bold;
     font-size: 1.5rem;
 }
-.div__prices span {
+.div__prices del {
     margin: 1rem 0.5625rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
